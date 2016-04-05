@@ -3,10 +3,11 @@ Para sistemas basados en Debian.
 
 ## Como usar
 
-$ git clone https://github.com/roramirez/timezone-cl.git
-$ cd timezone-cl
-$ sudo bash cambio.sh
-
+```
+git clone https://github.com/roramirez/timezone-cl.git
+cd timezone-cl
+sudo bash cambio.sh
+```
 
 Deberías tener una salida como
 
